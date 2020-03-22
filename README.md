@@ -25,6 +25,16 @@
 * [img.shape[:2]、img.shape[:3]](Python/img.shape%5B:2%5D、img.shape%5B:3%5D.md)
 
 ## Java
+
+* [Linux下使用yum安装jdk](Java/Linux下使用yum安装jdk.md)
+* [SpringBoot：No identifier specified for entity](Java/SpringBoot:No%20identifier%20specified%20for%20entity.md)
+* [本地运行jar文件](Java/本地运行jar文件.md)
+* [Linux服务器上部署带有jar包的Java项目](Java/Linux服务器上部署带有jar包的Java项目.md)
+* [jdbcTemplate中的queryForInt()方法废弃](Java/jdbcTemplate中的queryForInt()方法废弃.md)
+* [List集合取出最大值和最小值](Java/List集合取出最大值和最小值.md)
+* [时间格式2016-08-9T10:01:54.123Z 20160809100154.123Z的处理方法](Java/时间格式2016-08-9T10:01:54.123Z%2020160809100154.123Z的处理方法.md)
+* [Thymeleaf基础知识点](Java/Thymeleaf基础知识点.md)
+
 ## Android
 ## 网络
 
@@ -44,7 +54,7 @@
 * [解决Word表格超出界面的问题](效率/解决Word表格超出界面的问题.md)
 * [隐藏Mac终端窗口的"tyys000"](效率/隐藏Mac终端窗口的"tyys000".md)
 
-* [Google Colab: No module named XXX](效率/Google%20Colab: No%20module%20named%20XXX)
+* [Google Colab: No module named XXX](效率/Google%20Colab:%20No%20module%20named%20XXX.md)
 
 
 
