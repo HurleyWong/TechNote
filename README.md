@@ -13,8 +13,17 @@
 * [各平台重启MySQL命令](数据库/各平台重启MySQL命令.md)
 
 ## 大数据
+
+* [WordCount](大数据/WordCount.md)
+
 ## 云计算
+
+* [分布式消息队列](分布式/分布式消息队列.md)
+
 ## Python
+
+* [img.shape[:2]、img.shape[:3]](Python/img.shape%5B:2%5D、img.shape%5B:3%5D.md)
+
 ## Java
 ## Android
 ## 网络
@@ -35,7 +44,7 @@
 * [解决Word表格超出界面的问题](效率/解决Word表格超出界面的问题.md)
 * [隐藏Mac终端窗口的"tyys000"](效率/隐藏Mac终端窗口的"tyys000".md)
 
-
+* [Google Colab: No module named XXX](效率/Google%20Colab: No%20module%20named%20XXX)
 
 
 
