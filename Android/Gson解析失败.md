@@ -99,25 +99,25 @@ public class LenientGsonConverterFactory extends Converter.Factory {
 
 ```java
 Retrofit retrofit = new Retrofit.Builder()
-							.baseUrl(UrlContainer.baseUrl)
-							.client(client.build())
-							.addConverterFactory(LenientGsonConverterFactory.create(gson))
-							.addCallAdapterFactory(RxJava2CallAdapterFactory.create())
-							.build();
+    .baseUrl(UrlContainer.baseUrl)
+    .client(client.build())
+    .addConverterFactory(LenientGsonConverterFactory.create(gson))
+    .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
+    .build();
 ```
 
 ### 2. 在创建Gson实例时，设置setLenient()
 
 ```java
 Gson gson = new GsonBuilder()
-				.setLenient()
-				.create();
+    .setLenient()
+    .create();
 Retrofit retrofit = new Retrofit.Builder()
-    							.baseUrl(UrlContainer.baseUrl)
-    							.client(client.build())
-    							.addConverterFactory(GsonConverterFactory.create(gson))
-    							.addCallAdapterFactory(RxJava2CallAdapterFactory.create())
-    							.build();
+    .baseUrl(UrlContainer.baseUrl)
+    .client(client.build())
+    .addConverterFactory(GsonConverterFactory.create(gson))
+    .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
+    .build();
 ```
 
 这时只需正常地添加`addConverterFactory(GsonConverterFactory.create())`即可

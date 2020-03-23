@@ -14,9 +14,9 @@ android.support.v4.app.Fragment需要引入包android-support-v4.jar
 
 ### 3. 继承的父类不同，在fragmentManager的取法不同
 
-android.support.v4.app.Fragment使用 fragmentManager = getSupportFragmentManager()获得，并且当前的类必须继承FragmentActivity
+android.support.v4.app.Fragment使用` fragmentManager = getSupportFragmentManager()`获得，并且当前的类必须继承FragmentActivity
 
-android.app.Fragment使用fragmentManager = getFragmentManager()获得，继承Activity即可
+android.app.Fragment使用`fragmentManager = getFragmentManager()`获得，继承Activity即可
 
 ### 4. <fragment>标签的使用情况
 

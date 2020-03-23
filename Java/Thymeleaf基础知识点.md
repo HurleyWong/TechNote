@@ -6,8 +6,8 @@ Thymeleaf是搭配Springboot使用的模板引擎。
 
 ```xml
 <dependency>     
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-thymeleaf</artifactId> 
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-thymeleaf</artifactId> 
 </dependency>
 ```
 
@@ -50,7 +50,6 @@ th:value    属性赋值
 1. Themeleaf解决字符串过长显示的问题（截取显示部分字符串）
 
     ```
-     th:text="${
-       #string.abbreviate(twitter.text, 150)}"
+    th:text="${#string.abbreviate(twitter.text, 150)}"
     ```
 
