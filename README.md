@@ -11,6 +11,7 @@
 * [Springboot访问MySQL8的坑](数据库/Springboot访问MySQL8的坑.md)
 * [关于JDBC连接数据库时出现的Public Key Retrieval is not allowed](数据库/关于JDBC连接数据库时出现的Public%20Key%20Retrieval%20is%20not%20allowed错误.md)
 * [各平台重启MySQL命令](数据库/各平台重启MySQL命令.md)
+* [Linux下安装与卸载MySQL8.x](数据库/Linux下安装与卸载MySQL8.x.md)
 
 ## 大数据
 
@@ -19,6 +20,12 @@
 ## 云计算
 
 * [分布式消息队列](分布式/分布式消息队列.md)
+
+## 机器学习
+
+* [机器学习性能评估指标](机器学习/机器学习性能评估指标.md)
+* [invalid argument 0: Sizes of tensors must match except in dimension 1](机器学习/invalid%20argument%200:%20Sizes%20of%20tensors%20must%20match%20except%20in%20dimension%201.md)
+* [size mismatch, m1:[76800x256], m2:[784x128]](机器学习/size%20mismatch%2C%20m1:%5B76800*256%5D%2C%20m2:%5B784*128%5D.md)
 
 ## Python
 
@@ -34,6 +41,8 @@
 * [List集合取出最大值和最小值](Java/List集合取出最大值和最小值.md)
 * [时间格式2016-08-9T10:01:54.123Z 20160809100154.123Z的处理方法](Java/时间格式2016-08-9T10:01:54.123Z%2020160809100154.123Z的处理方法.md)
 * [Thymeleaf基础知识点](Java/Thymeleaf基础知识点.md)
+* [Java FileReader使用相对路径读取文件](Java/Java%20FileReader使用相对路径读取文件.md)
+* [Mac和Linux下的Tomcat](Java/Mac和Linux下的Tomcat.md)
 
 ## Android
 
@@ -85,11 +94,21 @@
 * [自定义Dialog——宽度充满屏幕并位于屏幕底部](Android/自定义Dialog——宽度充满屏幕并位于屏幕底部.md)
 * [获取RadioButton选中值](Android/获取RadioButton选中值.md)
 * [隐藏EditText的边框和下划线](Android/隐藏EditText的边框和下划线.md)
+* [Android P http网络请求问题](Android/Android%20P%20http网络请求问题.md)
+* [AndroidStudio for Mac的常用快捷键](Android/AndroidStudio%20for%20Mac的常用快捷键.md)
+* [Androidx和Android Support库共存问题](Android/Androidx和Android%20Support库共存问题.md)
+* [Android沉浸式状态栏的一种原生解决方法](Android/Android沉浸式状态栏的一种原生解决方法.md)
+* [BottomNavigationView的属性](Android/BottomNavigationView的属性.md)
+* [Fragment中修改Toolbar](Android/Fragment中修改Toolbar.md)
+* [Manifest merger failed with multiple errors, see logs](Android/Manifest%20merger%20failed%20with%20multiple%20errors%2C%20see%20logs.md)
+* [RelativeLayout常用属性](Android/RelativeLayout常用属性.md)
+* [Retrofit2&OkHttp3添加统一的请求头Header](Android/Retrofit2%26OkHttp3添加统一的请求头Header.md)
 
 ## 网络
 
 * [GET和POST请求方法的区别](网络/GET和POST请求方法的区别.md)
 * [Postman发送JSON格式的POST请求](网络/Postman发送JSON格式的POST请求.md)
+* [URL参数中含有特殊符号的处理](网络/URL参数中含有特殊符号的处理.md)
 
 ## 效率
 
@@ -106,9 +125,19 @@
 
 * [Google Colab: No module named XXX](效率/Google%20Colab:%20No%20module%20named%20XXX.md)
 
+* [Hexo怎么避免README文件以及CNAME文件的覆盖](效率/Hexo怎么避免README文件以及CNAME文件的覆盖.md)
+* [IDEA导入JDBC以及创建properties文件](效率/IDEA导入JDBC以及创建properties文件.md)
+* [Mac+Hexo+Github Pages搭建博客](效率/Mac%2BHexo%2BGithub%20Pages搭建博客.md)
+* [Mac+Sublime Text3+Latex环境配置](效率/Mac%2BSublime%20Text3%2BLatex环境配置.md)
+* [Mac下Sublime Text3的Preference打不开](效率/Mac下Sublime%20Text3的Preference打不开.md)
+* [Mac常用快捷键、终端命令](效率/Mac常用快捷键、终端命令.md)
+* [Markdown表格](效率/Markdown表格.md)
+* [参考文献的字母的作用](效率/参考文献的字母的作用.md)
+* [国家地区的语言缩写代码查询](效率/国家地区的语言缩写代码查询.md)
 
+## Linux
 
-
+* [Linux编辑.bashrc文件](Linux/Linux编辑.bashrc文件.md)
 
 
 
