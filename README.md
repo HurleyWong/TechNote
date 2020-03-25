@@ -20,12 +20,14 @@
 ## 云计算
 
 * [分布式消息队列](分布式/分布式消息队列.md)
+* [高级消息队列协议（AMQP）](云计算/高级消息队列协议（AMQP）.md)
 
 ## 机器学习
 
 * [机器学习性能评估指标](机器学习/机器学习性能评估指标.md)
 * [invalid argument 0: Sizes of tensors must match except in dimension 1](机器学习/invalid%20argument%200:%20Sizes%20of%20tensors%20must%20match%20except%20in%20dimension%201.md)
 * [size mismatch, m1:[76800x256], m2:[784x128]](机器学习/size%20mismatch%2C%20m1:%5B76800*256%5D%2C%20m2:%5B784*128%5D.md)
+* [Training neural network prompts KeyError-'acc'](机器学习/Training%20neural%20network%20prompts%20KeyError-'acc'.md)
 
 ## Python
 
@@ -43,6 +45,7 @@
 * [Thymeleaf基础知识点](Java/Thymeleaf基础知识点.md)
 * [Java FileReader使用相对路径读取文件](Java/Java%20FileReader使用相对路径读取文件.md)
 * [Mac和Linux下的Tomcat](Java/Mac和Linux下的Tomcat.md)
+* [SpringBoot打包web项目成war包部署到Tomcat服务器中](Java/SpringBoot打包web项目成war包部署到Tomcat服务器中.md)
 
 ## Android
 
@@ -103,6 +106,16 @@
 * [Manifest merger failed with multiple errors, see logs](Android/Manifest%20merger%20failed%20with%20multiple%20errors%2C%20see%20logs.md)
 * [RelativeLayout常用属性](Android/RelativeLayout常用属性.md)
 * [Retrofit2&OkHttp3添加统一的请求头Header](Android/Retrofit2%26OkHttp3添加统一的请求头Header.md)
+* [AndroidStudio的目录结构](Android/AndroidStudio的目录结构.md)
+* [Android中shape属性详解](Android/Android中shape属性详解.md)
+* [Fresco的使用方法](Android/Fresco的使用方法.md)
+* [MalformedJsonException with Retrofit API](Android/MalformedJsonException%20with%20Retrofit%20API.md)
+* [OkHttp之缓存配置详解](Android/OkHttp之缓存配置详解.md)
+* [Retrofit网络请求参数注解](Android/Retrofit网络请求参数注解.md)
+* [SearchView的使用方法](Android/SearchView的使用方法.md)
+* [ViewPager的smoothScroll控制速度](Android/ViewPager的smoothScroll控制速度.md)
+* [greenDao的基本使用](Android/greenDao的基本使用.md)
+* [拦截库LoggingInterceptor，拦截网络请求和响应](Android/拦截库LoggingInterceptor，拦截网络请求和响应.md)
 
 ## 网络
 
@@ -122,9 +135,7 @@
 * [恢复Google Colab默认设置](效率/恢复Google%20Colab默认设置.md)
 * [解决Word表格超出界面的问题](效率/解决Word表格超出界面的问题.md)
 * [隐藏Mac终端窗口的"tyys000"](效率/隐藏Mac终端窗口的"tyys000".md)
-
 * [Google Colab: No module named XXX](效率/Google%20Colab:%20No%20module%20named%20XXX.md)
-
 * [Hexo怎么避免README文件以及CNAME文件的覆盖](效率/Hexo怎么避免README文件以及CNAME文件的覆盖.md)
 * [IDEA导入JDBC以及创建properties文件](效率/IDEA导入JDBC以及创建properties文件.md)
 * [Mac+Hexo+Github Pages搭建博客](效率/Mac%2BHexo%2BGithub%20Pages搭建博客.md)
@@ -134,6 +145,9 @@
 * [Markdown表格](效率/Markdown表格.md)
 * [参考文献的字母的作用](效率/参考文献的字母的作用.md)
 * [国家地区的语言缩写代码查询](效率/国家地区的语言缩写代码查询.md)
+* [Hexo Error——expected end of comment, got end of file](效率/Hexo%20Error——expected%20end%20of%20comment%2C%20got%20end%20of%20file.md)
+* [Hexo更新代码高亮以及Github Page Build Warning](效率/Hexo更新代码高亮以及Github%20Page%20Bulid%20Warning.md)
+* [各大论文查重引擎接介绍（转载）](效率/各大论文查重引擎介绍（转载）.md)
 
 ## Linux
 

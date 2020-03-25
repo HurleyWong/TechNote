@@ -1,4 +1,4 @@
-### Error
+## Training neural network prompts KeyError-'acc'
 
 In a Lab experiment that trains neural network in the university, after running the given sample code, although training can be started, the training will be finished by prompting `KeyError: 'acc'`.
 

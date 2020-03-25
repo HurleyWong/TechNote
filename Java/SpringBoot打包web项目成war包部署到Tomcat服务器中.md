@@ -1,10 +1,8 @@
-	## SpringBoot打包web项目成war包部署到Tomcat服务器中
+## SpringBoot打包web项目成war包部署到Tomcat服务器中
 
 ### 将项目打包成war包
 
 首先，修改pom.xml文件，指定打包方式为`<packaging>war</packaging>`，然后修改pom.xml修改SpringBoot内置的Tomcat依赖，指定scope为`provided`
-
-<!-- more -->
 
 ```xml
 <dependency>
