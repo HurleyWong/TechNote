@@ -153,7 +153,12 @@
 
 * [Linux编辑.bashrc文件](Linux/Linux编辑.bashrc文件.md)
 
+## LaTex
 
+* [LaTex强制图片位置](LaTex/LaTex强制图片位置.md)
+* [LaTex换行顶格不缩进](LaTex/LaTex换行顶格不缩进.md)
+* [LaTex正确输入双引号](LaTex/LaTex正确输入双引号)
+* [LaTex添加quotation](LaTex/LaTex添加quotation.md)
 
 
 
