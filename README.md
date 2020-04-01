@@ -160,7 +160,7 @@
 * [LaTex正确输入双引号](LaTex/LaTex正确输入双引号)
 * [LaTex添加quotation](LaTex/LaTex添加quotation.md)
 
-
+* [LaTex添加或修改标题、摘要、引用、字体、脚注等](LaTex/LaTex添加或修改标题、摘要、引用、字体、脚注等.md)
 
 
 
