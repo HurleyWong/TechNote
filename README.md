@@ -32,6 +32,11 @@
 ## Python
 
 * [img.shape[:2]、img.shape[:3]](Python/img.shape%5B:2%5D、img.shape%5B:3%5D.md)
+* [dict.keys()转换成list类型](Python/dict.keys()转换成list类型.md)
+* [嵌套列表list展开](Python/嵌套列表list展开.md)
+* [Python替换英文标点符号](Python/Python替换英文标点符号.md)
+* [使用Counter统计list中各个元素出现的次数](Python/使用Counter统计list中各个元素出现的次数.md)
+* [list合并连接字符串](Python/list合并连接字符串.md)
 
 ## Java
 
@@ -125,6 +130,8 @@
 
 ## 效率
 
+* [Google Colab断线自动重连](效率/Google%20Colab断线自动重连.md)
+* [Google Colab删除文件夹](效率/Google%20Colab删除文件夹.md)
 * [Google Colab安装2.x版本的Tensorflow](效率/Google%20Colab安装2.x版本的Tensorflow.md)
 * [Mac OS下获取Homebrew安装的软件的路径](效率/Mac%20OS下获取Homebrew安装的软件的路径.md)
 * [Mac OS下安装软件时提示已损坏的解决方法](效率/Mac%20OS下安装软件时提示已损坏的解决方法.md)
