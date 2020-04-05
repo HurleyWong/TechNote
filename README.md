@@ -28,6 +28,7 @@
 * [invalid argument 0: Sizes of tensors must match except in dimension 1](机器学习/invalid%20argument%200:%20Sizes%20of%20tensors%20must%20match%20except%20in%20dimension%201.md)
 * [size mismatch, m1:[76800x256], m2:[784x128]](机器学习/size%20mismatch%2C%20m1:%5B76800*256%5D%2C%20m2:%5B784*128%5D.md)
 * [Training neural network prompts KeyError-'acc'](机器学习/Training%20neural%20network%20prompts%20KeyError-'acc'.md)
+* [Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same](机器学习/Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same.md)
 
 ## Python
 
@@ -37,6 +38,7 @@
 * [Python替换英文标点符号](Python/Python替换英文标点符号.md)
 * [使用Counter统计list中各个元素出现的次数](Python/使用Counter统计list中各个元素出现的次数.md)
 * [list合并连接字符串](Python/list合并连接字符串.md)
+* [Python变量拼接方法](Python/Python变量拼接方法.md)
 
 ## Java
 
