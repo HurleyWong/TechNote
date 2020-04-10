@@ -8,6 +8,14 @@
 * [MySQL无法通过Navicat远程连接](数据库/MySQL无法通过Navicat远程连接.md)
 * [MySQL添加用户权限报错1064-You have an error in your SQL syntax问题](数据库/MySQL添加用户权限报错1064-You%20have%20an%20error%20in%20your%20SQL%20syntax问题.md)
 
+## 数据结构和算法
+
+* [二叉树](数据结构和算法/二叉树.md)
+* [排序](数据结构和算法/排序.md)
+* [栈和队列](数据结构和算法/栈和队列.md)
+* [查找](数据结构和算法/查找.md)
+* [时间复杂度和空间复杂度（转载）](数据结构和算法/时间复杂度和空间复杂度（转载）.md)
+
 ## 大数据
 
 * [WordCount](大数据/WordCount.md)
@@ -28,6 +36,7 @@
 * [混淆矩阵可视化](机器学习/混淆矩阵可视化.md)
 * [one-hot编码](机器学习/one-hot编码.md)
 * [keras中激活函数](机器学习/keras中激活函数.md)
+* [keras基础模型调参指南](机器学习/keras基础模型调参指南.md)
 
 ## Python
 
