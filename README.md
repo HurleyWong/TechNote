@@ -7,11 +7,6 @@
 * [MySQL8.0修改密码](数据库/MySQL8.0修改密码.md)
 * [MySQL无法通过Navicat远程连接](数据库/MySQL无法通过Navicat远程连接.md)
 * [MySQL添加用户权限报错1064-You have an error in your SQL syntax问题](数据库/MySQL添加用户权限报错1064-You%20have%20an%20error%20in%20your%20SQL%20syntax问题.md)
-* [MySQL连接报Communication link failure错误](数据库/MySQL连接报Communication%20link%20failure错误.md)
-* [Springboot访问MySQL8的坑](数据库/Springboot访问MySQL8的坑.md)
-* [关于JDBC连接数据库时出现的Public Key Retrieval is not allowed](数据库/关于JDBC连接数据库时出现的Public%20Key%20Retrieval%20is%20not%20allowed错误.md)
-* [各平台重启MySQL命令](数据库/各平台重启MySQL命令.md)
-* [Linux下安装与卸载MySQL8.x](数据库/Linux下安装与卸载MySQL8.x.md)
 
 ## 大数据
 
@@ -30,6 +25,9 @@
 * [Training neural network prompts KeyError-'acc'](机器学习/Training%20neural%20network%20prompts%20KeyError-'acc'.md)
 * [Input type (torch.FloatTensor) and weight type (torch.cuda.FloatTensor) should be the same](机器学习/Input%20type%20(torch.FloatTensor)%20and%20weight%20type%20(torch.cuda.FloatTensor)%20should%20be%20the%20same.md)
 * [RuntimeError: Expected 4-dimensional input for 4-dimensional weight [6, 3, 5, 5], but got 3-dimensional input of size [3, 256, 256] instead](机器学习/RuntimeError:%20Expected%204-dimensional%20input%20for%204-dimensional%20weight%20%5B6%2C%203%2C%205%2C%205%5D%2C%20but%20got%203-dimensional%20input%20of%20size%20%5B3%2C%20256%2C%20256%5D%20instead.md)
+* [混淆矩阵可视化](机器学习/混淆矩阵可视化.md)
+* [one-hot编码](机器学习/one-hot编码.md)
+* [keras中激活函数](机器学习/keras中激活函数.md)
 
 ## Python
 
@@ -45,6 +43,13 @@
 * [Python去除列表中重复元素](Python/Python去除列表中重复元素.md)
 * [Python统计字符串中空格的个数](Python/Python统计字符串中空格的个数.md)
 * [判断list是否为空](Python/判断list是否为空.md)
+* [Matplotlib基础用法](Python/Matplotlib基础用法.md)
+
+## R语言
+
+* [R语言之探索性数据分析](R语言/R语言之探索性数据分析.md)
+
+* [R语言开发之零碎问题](R语言/R语言开发之零碎问题.md)
 
 ## Java
 
@@ -58,7 +63,8 @@
 * [Thymeleaf基础知识点](Java/Thymeleaf基础知识点.md)
 * [Java FileReader使用相对路径读取文件](Java/Java%20FileReader使用相对路径读取文件.md)
 * [Mac和Linux下的Tomcat](Java/Mac和Linux下的Tomcat.md)
-* [SpringBoot打包web项目成war包部署到Tomcat服务器中](Java/SpringBoot打包web项目成war包部署到Tomcat服务器中.md)
+* [SpringBoot打包web项目成war包部署到Tomcat服务器](Java/SpringBoot打包web项目成war包部署到Tomcat服务器中.md)
+* [Java锁的原理与类型](Java/Java锁的原理与类型.md)
 
 ## Android
 
@@ -135,6 +141,7 @@
 * [GET和POST请求方法的区别](网络/GET和POST请求方法的区别.md)
 * [Postman发送JSON格式的POST请求](网络/Postman发送JSON格式的POST请求.md)
 * [URL参数中含有特殊符号的处理](网络/URL参数中含有特殊符号的处理.md)
+* [TCP协议中的三次握手与四次挥手](网络/TCP协议中的三次握手与四次挥手.md)
 
 ## 效率
 
