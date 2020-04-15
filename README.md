@@ -1,5 +1,5 @@
-# TechNote
-![](https://img.shields.io/badge/dynamic/json?color=%231D1B1B&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHurleyJames) ![](https://img.shields.io/badge/dynamic/json?color=%232093DC&label=Twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DHurleyHuang23) ![](https://img.shields.io/badge/dynamic/json?color=%233FA4DA&label=Telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DHurleyJames) ![](https://img.shields.io/badge/dynamic/json?color=%23E79437&label=微博&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5628559861) ![](https://img.shields.io/badge/dynamic/json?color=%23097BE9&label=知乎&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dhuang-peng-yuan-91) ![](https://img.shields.io/badge/dynamic/json?color=%23199C59&label=酷安&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dcoolapk%26queryKey%3D795519)
+# TechNote ![](https://img.shields.io/badge/dynamic/json?color=%23E79437&label=微博&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5628559861) ![](https://img.shields.io/badge/dynamic/json?color=%23097BE9&label=知乎&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dhuang-peng-yuan-91) ![](https://img.shields.io/badge/dynamic/json?color=%23199C59&label=酷安&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dcoolapk%26queryKey%3D795519)
+
 ## 数据库
 
 * [Mac连接服务器后连接MySQL数据库](数据库/Mac连接服务器后连接MySQL数据库.md)
@@ -7,14 +7,15 @@
 * [MySQL8.0修改密码](数据库/MySQL8.0修改密码.md)
 * [MySQL无法通过Navicat远程连接](数据库/MySQL无法通过Navicat远程连接.md)
 * [MySQL添加用户权限报错1064-You have an error in your SQL syntax问题](数据库/MySQL添加用户权限报错1064-You%20have%20an%20error%20in%20your%20SQL%20syntax问题.md)
+* [数据库事务的四个特性ACID](数据库/数据库事务的四个特性ACID.md)
 
-## 数据结构和算法
+## 数据结构与算法
 
-* [二叉树](数据结构和算法/二叉树.md)
-* [排序](数据结构和算法/排序.md)
-* [栈和队列](数据结构和算法/栈和队列.md)
-* [查找](数据结构和算法/查找.md)
-* [时间复杂度和空间复杂度（转载）](数据结构和算法/时间复杂度和空间复杂度（转载）.md)
+* [二叉树](数据结构与算法/二叉树.md)
+* [排序](数据结构与算法/排序.md)
+* [栈和队列](数据结构与算法/栈和队列.md)
+* [查找](数据结构与算法/查找.md)
+* [时间复杂度和空间复杂度（转载）](数据结构与算法/时间复杂度和空间复杂度（转载）.md)
 
 ## 大数据
 
