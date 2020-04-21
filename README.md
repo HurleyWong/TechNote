@@ -1,4 +1,4 @@
-# TechNote ![](https://img.shields.io/badge/dynamic/json?color=%23E79437&label=微博&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5628559861) ![](https://img.shields.io/badge/dynamic/json?color=%23097BE9&label=知乎&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dhuang-peng-yuan-91) ![](https://img.shields.io/badge/dynamic/json?color=%23199C59&label=酷安&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dcoolapk%26queryKey%3D795519)
+# TechNote 
 
 ## 数据库
 
@@ -54,6 +54,7 @@
 * [Python统计字符串中空格的个数](Python/Python统计字符串中空格的个数.md)
 * [判断list是否为空](Python/判断list是否为空.md)
 * [Matplotlib基础用法](Python/Matplotlib基础用法.md)
+* [Matplotlib调整子图间距和整体空白](Python/Matplotlib调整子图间距和整体空白.md)
 
 ## R语言
 
@@ -191,20 +192,12 @@
 * [LaTex换行顶格不缩进](LaTex/LaTex换行顶格不缩进.md)
 * [LaTex正确输入双引号](LaTex/LaTex正确输入双引号)
 * [LaTex添加quotation](LaTex/LaTex添加quotation.md)
+* [LaTex添加或修改标题、摘要、引用、字体、脚注](LaTex/LaTex添加或修改标题、摘要、引用、字体、脚注等.md)
+* [图片并排摆放](Latex/图片并排摆放.md)
 
-* [LaTex添加或修改标题、摘要、引用、字体、脚注等](LaTex/LaTex添加或修改标题、摘要、引用、字体、脚注等.md)
+* [列表的使用](Latex/列表的使用.md)
 
-
-
-
-
-
-
-
-
-
-
-
+* [Python生成一组随机数列表](Latex/Python生成一组随机数列表.md)
 
 
 
