@@ -55,6 +55,7 @@
 * [判断list是否为空](Python/判断list是否为空.md)
 * [Matplotlib基础用法](Python/Matplotlib基础用法.md)
 * [Matplotlib调整子图间距和整体空白](Python/Matplotlib调整子图间距和整体空白.md)
+* [Python生成一组随机数列表](Python/Python生成一组随机数列表.md)
 
 ## R语言
 
@@ -197,7 +198,6 @@
 
 * [列表的使用](Latex/列表的使用.md)
 
-* [Python生成一组随机数列表](Latex/Python生成一组随机数列表.md)
 
 
 
